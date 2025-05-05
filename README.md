@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio
 
 This is a personal portfolio project designed to showcase skills, projects, and contact information. It serves as a digital resume and a platform to demonstrate web development capabilities.
@@ -52,3 +53,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# Mustafa-Portfolio
+>>>>>>> 60e2c0cc22b4cff69885e8bf1b1acc0c5cfc74f0
